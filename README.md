@@ -1,4 +1,6 @@
-# Setup
+### Antlr does not yet generated the go code correctly
+
+### Setup
 
 [Install Antlr](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md) first then running somthing like to generate the parser/lexer
 
